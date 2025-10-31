@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "";
+$pass = "root";
 $db = "kanban_industria";
 
 $conn = new mysqli($host, $user, $pass, $db);
